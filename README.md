@@ -17,4 +17,7 @@ after installing, I started all the virtual machines and connected the windows a
 
 ![image](https://github.com/joshkhama/Portfolio_Lab1_CyberSecurity/assets/48378191/614ba597-f5dc-46ff-b23b-bf07e7475cf0)
 
+The nextstage was to ping all the machines to test the connections
+
+![image](https://github.com/joshkhama/Portfolio_Lab1_CyberSecurity/assets/48378191/3742b814-ef92-4b47-b658-c73f9f13a4f5)
 
